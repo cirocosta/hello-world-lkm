@@ -1,4 +1,4 @@
-hello-world-lkm - a loadable kernel module hello-world
+hello-world-lkm - a "hello-world" loadable kernel module
 
 Usage:
 
